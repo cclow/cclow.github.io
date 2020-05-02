@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-github-metadata
+  - jekyll-seo-tag
 
 lsi: false
 safe: true
