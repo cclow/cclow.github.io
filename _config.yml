@@ -31,6 +31,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-github-metadata
 
 lsi: false
 safe: true
